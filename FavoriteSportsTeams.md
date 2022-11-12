@@ -1,4 +1,4 @@
-#Favorite Sports Teams
+# Favorite Sports Teams
 
 | Favorite Team | Sport |
 | ------------- | ----- |
