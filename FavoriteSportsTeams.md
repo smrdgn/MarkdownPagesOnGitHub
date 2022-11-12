@@ -4,3 +4,4 @@
 | ------------- | ----- |
 | STL Cardinals | Baseball |
 | STL Blues     | Hockey   |
+| KC Chiefs     | Football |
