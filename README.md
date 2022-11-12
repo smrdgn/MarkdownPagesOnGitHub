@@ -2,5 +2,5 @@
 # Name: Seth Rands
 # Class: _INFOTC 1600_
 
-Hello! Click on the following links to learn more about me. :joy:
+Hello! Click on the following links to learn more about me. :star:
 
