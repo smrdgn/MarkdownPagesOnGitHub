@@ -2,3 +2,4 @@
 
 | Favorite Team | Sport |
 | ------------- | ----- |
+| STL Cardinals | Baseball |
