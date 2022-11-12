@@ -1,4 +1,4 @@
-# Challenge: **Markdown Pages on GitHub**
+# Challenge: *Markdown Pages on GitHub*
 # Name: Seth Rands
 # Class: _INFOTC 1600_
 
