@@ -8,4 +8,4 @@
 
 ![Cardinal's Logo](cardinals.png)
 ![Blue's Logo](blues.png)
-![Cheif's Logo](cheifs.png)
+![Chief's Logo](chiefs.png)
