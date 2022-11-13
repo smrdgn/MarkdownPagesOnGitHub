@@ -4,8 +4,8 @@
 
 Hello! Click on the following links to learn a little bit about me. :star:
 
-[Education](Education.md)
+[Education](education.md)
 
 [Favorite Sports Teams](FavoriteSportsTeams.md)
 
-[Hobbies](Hobbies.md)
+[Hobbies](hobbies.md)
